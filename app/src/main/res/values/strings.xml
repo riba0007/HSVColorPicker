@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_about">About</string>
+    <string name="author">Priscila Ribas da Costa (riba0007)</string>
+    <string name="hue">Hue</string>
+    <string name="hue_description">Hue Value</string>
+    <string name="hue_progress">Hue ( %d\u00B0 )</string>
+    <string name="saturation">Saturation</string>
+    <string name="saturation_description">Saturation Value</string>
+    <string name="saturation_progress">Saturation ( %d%% )</string>
+    <string name="value">Value/Brightness</string>
+    <string name="value_description">Value/Brightness Value</string>
+    <string name="value_progress">Value/Brightness ( %d%% )</string>
+    <string name="hsv_values">H: %1$d\u00B0 S: %2$d%% V: %3$d%%</string>
+</resources>
